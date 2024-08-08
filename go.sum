@@ -1,7 +1,5 @@
 github.com/Jigsaw-Code/outline-sdk v0.0.14 h1:uJLvIne7YJNolbX7KDacd8gLidrUzRuweBO2APmQEmI=
 github.com/Jigsaw-Code/outline-sdk v0.0.14/go.mod h1:9cEaF6sWWMzY8orcUI9pV5D0oFp2FZArTSyJiYtMQQs=
-github.com/Jigsaw-Code/outline-ss-server v1.5.0 h1:Vz+iS0xR7i3PrLD82pzFFwZ9fsh6zrNawMeYERR8VTc=
-github.com/Jigsaw-Code/outline-ss-server v1.5.0/go.mod h1:KaebwBiCWDSkgsJrJIbGH0szON8CZq4LgQaFV8v3RM4=
 github.com/Masterminds/semver/v3 v3.2.1 h1:RN9w6+7QoMeJVGyfmbcgs28Br8cvmnucEXnY0rYXWg0=
 github.com/Masterminds/semver/v3 v3.2.1/go.mod h1:qvl/7zhW3nngYb5+80sSMF+FG2BjYrf8m9wsX0PNOMQ=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
@@ -28,6 +26,8 @@ github.com/golang/protobuf v1.5.3/go.mod h1:XVQd3VNwM+JqD3oG2Ue2ip4fOMUkwXdXDdiu
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+github.com/goosbok/outline-ss-server v0.0.2 h1:lpZjZ/MRuaU0WYFyh5wv1p5lU6PXmF5v3xx6TRxfnLM=
+github.com/goosbok/outline-ss-server v0.0.2/go.mod h1:9FQx0mB0wxUY7y3K3T7Ij6m3P2jrJfi/54ps6A//xhA=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
 github.com/klauspost/cpuid/v2 v2.0.9 h1:lgaqFMSdTdQYdZ04uHyN2d/eKdOMyi2YLSvlQIBFYa4=

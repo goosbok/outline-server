@@ -21,6 +21,6 @@
 package tools
 
 import (
-	_ "github.com/Jigsaw-Code/outline-ss-server/cmd/outline-ss-server"
+	_ "github.com/goosbok/outline-ss-server/cmd/outline-ss-server"
 	_ "github.com/go-task/task/v3/cmd/task"
 )
