@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/go-task/task/v3 v3.36.0
-	github.com/goosbok/outline-ss-server v0.0.2
+	github.com/goosbok/outline-ss-server v0.0.3
 )
 
 require (
